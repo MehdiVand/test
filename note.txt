@@ -1,1 +1,4 @@
 Hi This is from note.txt
+line2
+line 3
+line 4
